@@ -1,6 +1,6 @@
 using System;
 
-namespace formbucket_ops {
+namespace read_line_print_line {
 	class Program {
 		static void Main (string[] args) {
 			string line;
